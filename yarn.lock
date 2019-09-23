@@ -2123,8 +2123,9 @@ cosmiconfig@^5.2.0:
     js-yaml "^3.13.1"
     parse-json "^4.0.0"
 
-"craftmusic-stream-chat-react-native-core@file:..":
+"craftmusic-stream-chat-react-native-core@https://github.com/craftmusic/craftmusic-stream-chat-react-native.git":
   version "0.2.4"
+  resolved "https://github.com/craftmusic/craftmusic-stream-chat-react-native.git#0915637ea107a6e880302eb9bc62be6be88ff163"
   dependencies:
     "@babel/runtime" "^7.1.2"
     "@stream-io/react-native-simple-markdown" "^1.1.1"
