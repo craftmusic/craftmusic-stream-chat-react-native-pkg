@@ -2124,8 +2124,8 @@ cosmiconfig@^5.2.0:
     parse-json "^4.0.0"
 
 "craftmusic-stream-chat-react-native-core@https://github.com/craftmusic/craftmusic-stream-chat-react-native.git":
-  version "0.2.4"
-  resolved "https://github.com/craftmusic/craftmusic-stream-chat-react-native.git#0915637ea107a6e880302eb9bc62be6be88ff163"
+  version "0.2.6"
+  resolved "https://github.com/craftmusic/craftmusic-stream-chat-react-native.git#eeded130bf96df9ee8c2d03337496b1ad5c23d47"
   dependencies:
     "@babel/runtime" "^7.1.2"
     "@stream-io/react-native-simple-markdown" "^1.1.1"
@@ -2522,9 +2522,9 @@ ee-first@1.1.1:
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 electron-to-chromium@^1.3.247:
-  version "1.3.263"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.263.tgz#089957556c0a3e2a3726217449796914e5fe9609"
-  integrity sha512-VfPi+sE/1nEKOV7DWDqWSUGP7ztJG5FeqHbMEj6dBb/arKnxpOCnRXOSC6HBV6qTfK5v8CX7xWCqzN36UqG1oA==
+  version "1.3.264"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.264.tgz#ed837f44524d0601a7b2b7b6efd86e35753d0e27"
+  integrity sha512-z8E7WkrrquCuGYv+kKyybuZIbdms+4PeHp7Zm2uIgEhAigP0bOwqXILItwj0YO73o+QyHY/7XtEfP5DsHOWQgQ==
 
 elliptic@^6.0.0:
   version "6.5.1"
@@ -2562,9 +2562,9 @@ encoding@^0.1.11:
     iconv-lite "~0.4.13"
 
 end-of-stream@^1.0.0, end-of-stream@^1.1.0:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/end-of-stream/-/end-of-stream-1.4.1.tgz#ed29634d19baba463b6ce6b80a37213eab71ec43"
-  integrity sha512-1MkrZNvWTKCaigbn+W15elq2BB/L22nqrSY5DKlo3X6+vclJm8Bb5djXJBmEX6fS3+zCh/F4VBK5Z2KxJt4s2Q==
+  version "1.4.2"
+  resolved "https://registry.yarnpkg.com/end-of-stream/-/end-of-stream-1.4.2.tgz#080bf028edce8312b665ff18ea03cae0c3ac0ecb"
+  integrity sha512-gUSUszrsxlDnUbUwEI9Oygyrk4ZEWtVaHQc+uZHphVeNxl+qeqMV/jDWoTkjN1RmGlZ5QWAP7o458p/JMlikQg==
   dependencies:
     once "^1.4.0"
 
@@ -4465,9 +4465,9 @@ minimist@^1.2.0:
   integrity sha1-o1AIsg9BOD7sH7kU9M1d95omQoQ=
 
 minipass@^2.2.1, minipass@^2.6.0, minipass@^2.6.4:
-  version "2.6.5"
-  resolved "https://registry.yarnpkg.com/minipass/-/minipass-2.6.5.tgz#1c245f9f2897f70fd4a219066261ce6c29f80b18"
-  integrity sha512-ewSKOPFH9blOLXx0YSE+mbrNMBFPS+11a2b03QZ+P4LVrUHW/GAlqeYC7DBknDyMWkHzrzTpDhUvy7MUxqyrPA==
+  version "2.8.3"
+  resolved "https://registry.yarnpkg.com/minipass/-/minipass-2.8.3.tgz#aa87cf674150a1b3c8e278c5f5937d1d3d02b955"
+  integrity sha512-NcbXxDThFeNW47XHPCCsb6uQdAg7CHy4KNCPKzE0KN2VC0t4E09beCsI5x+3UnB6+AFMnC9jso92SB3KGRpkJQ==
   dependencies:
     safe-buffer "^5.1.2"
     yallist "^3.0.0"
