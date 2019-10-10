@@ -2,7 +2,7 @@
   "name": "craftmusic-stream-chat-react-native",
   "version": "0.2.6",
   "author": {
-    "company": "Stream.io Inc"
+    "company": "Craft Music"
   },
   "keywords": [
     "chat",
@@ -46,14 +46,11 @@
     "lint": "prettier --list-different '**/*.{js,ts,md,json}' .eslintrc.json .prettierrc .babelrc && eslint '**/*.{js,md}' --max-warnings 0",
     "lint-fix": "prettier --write '**/*.{js,ts,md,json}' .eslintrc.json .prettierrc .babelrc && eslint --fix '**/*.{js,md}' --max-warnings 0",
     "preversion": "yarn",
-    "prepare": "yarn run build",
-    "prepack": " cp ../README.md .",
-    "postpack": "rm README.md"
+    "prepare": "yarn run build"
   },
   "dependencies": {
-    "@babel/runtime": "^7.6.0",
-    "craftmusic-stream-chat-react-native-core": "https://github.com/craftmusic/craftmusic-stream-chat-react-native.git",
-    "es6-symbol": "^3.1.1"
+    "es6-symbol": "^3.1.1",
+    "craftmusic-stream-chat-react-native-core": "^0.2.6"
   },
   "peerDependencies": {
     "@react-native-community/netinfo": ">=2.0.7",
